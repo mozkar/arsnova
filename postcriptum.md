@@ -1,0 +1,78 @@
+# Post-scriptum sobre las sociedades de control [^1]
+
+## Gilles Deleuze
+
+
+
+---
+
+## I. HISTORIA
+
+#### 1
+
+Foucault situó las sociedades disciplinarias en los siglos XVII y XIX”, y estas sociedades alcanzan su apogeo a principios del siglo XX. Operan mediante la organización de grandes centros de encierro. El individuo pasa sucesivamente de un círculo cerrado a otro, cada uno con sus propias leyes: primero la familia, después la escuela (“ya no estas en la casa”), después el cuartel (“ya no estas en la escuela”), a continuación la fábrica, cada cierto tiempo el hospital, y a veces la cárcel, el centro de encierro por excelencia. La cárcel sirve como modelo analógico: la heroína de Europa 51 exclama, cuando ve a los obreros: «creí ver a unos condenados». Foucault ha analizado a la perfección el proyecto ideal de los centros de encierro, especialmente visible en las fábricas: concentrar, repartir en el espacio, ordenar en el tiempo, componer en el espacio-tiempo una fuerza productiva cuyo efecto debe superar la suma de las fuerzas componentes. Pero Foucault conocía también la escasa duración de este modelo: fue el sucesor de las sociedades de soberanía, cuyos fines y funciones eran completamente distintos: gravar la producción más que organizarla, decidir la muerte más que administrar la vida; la transición fue progresiva. Napoleón parece ser quien realizó la transformación de una sociedad en otra. Pero, también las disciplinas entraron en crisis en provecho de nuevas fuerzas que iban produciendo lentamente, y que se precipitaron después de la segunda guerra mundial: las sociedades disciplinarias son nuestro pasado inmediato, lo que estamos dejando de ser.
+
+#### 2
+
+Todos los centros de encierro atraviesan una crisis generalizada: cárcel, hospital, fábrica, escuela, familia. La familia es un (espacio) “interior” en crisis, como lo son los demás (espacios) interiores (el escolar, el profesional, etc.). Los ministros competentes anuncian constantemente las supuestamente necesarias reformas. Reformar la escuela, reformar la industria, reformar el hospital, el ejército, la cárcel; pero todos saben que, a un plazo más o menos largo, estas instituciones están acabadas. Solamente se pretende gestionar su agonía y mantener a la gente ocupada mientras se instalan esas nuevas fuerzas que están llamando a nuestras puertas. Se trata de las sociedades de control, que están sustituyendo a las disciplinarias. “Control” es el nombre propuesto por Burroughs para designar al nuevo monstruo que Foucault reconoció como nuestro futuro inmediato. También Paul Virilio ha analizado continuamente las formas ultrarrápidas que adopta el control “al aire libre” y que reemplazan a las antiguas disciplinas que actuaban en el período de los sistemas cerrados. No cabe responsabilizar de ellas a la producción farmacéutica, a los enclaves nucleares o a las manipulaciones genéticas, aunque tales cosas estén destinadas a intervenir en el nuevo proceso. No cabe comparar para decidir cuál de los dos regímenes es más duro o más tolerable, ya que tanto las liberaciones como las sumisiones han de ser afrontadas en cada uno de ellos a su modo. Así, por ejemplo, en la crisis del hospital como medio de encierro, es posible que la sectorialización, los hospitales de día o la asistencia domiciliaria hayan supuesto en un principio nuevas libertades; no obstante, participan igualmente de mecanismos de control que no tienen nada que envidiar a los más terribles encierros. No hay lugar para el temor ni para la esperanza, sólo cabe buscar nuevas armas.
+
+
+
+---
+
+### II. LOGICA
+
+#### 3
+
+Los diferentes internados o centros de encierro por los que va pasando el individuo son variables independientes: se sobreentiende en cada ocasión un comienzo desde cero, y, aunque existiese un lenguaje común a todos los centros de encierro, es un lenguaje analógico. En cambio, los diferentes “controladores” son variantes inseparables que constituyen un sistema de geometría variable cuyo lenguaje es numérico (lo que no siempre significa que sea binario). Los encierros son moldes o moldeados diferentes, mientras que los controles constituyen una modulación, como una suerte de molde autodeformante que cambia constantemente y a cada instante, como un tamiz cuya malla varía en cada punto. Se puede apreciar sin dificultad en los problemas de los salarios: la fábrica era un cuerpo cuyas fuerzas interiores debían alcanzar un punto de equilibrio, lo más alto posible para la producción, lo más bajo posible para los salarios; en una sociedad de control, la fábrica es sustituida por la empresa, y la empresa es un alma, es etérea,
+
+#### 4
+
+Es cierto que ya la fábrica utilizaba el sistema de las primas y los incentivos, pero la empresa se esfuerza con mayor profundidad en imponer una modulación de cada salario, en estados siempre metaestables que admiten confrontaciones, concursos y premios extremadamente cómicos. El éxito de los concursos televisivos más estúpidos se debe a que expresan adecuadamente la situación de las empresas. La fábrica hacía de los individuos un cuerpo, con la doble ventaje de que, de este modo, el patrono podía vigilar cada uno de los elementos que formaban la masa y los sindicatos podían movilizar a toda una masa de resistentes. La empresa, en cambio, instituye entre los individuos una rivalidad interminable a modo de sana competición, como una motivación excelente que contrapone unos individuos a otros y atraviesa a cada uno de ellos, dividiéndole interiormente. El principio modulador de que los salarios deben corresponderse con los méritos tienta incluso a la enseñanza pública: de hecho, igual que la empresa toma el relevo de la fábrica, la formación permanente tiende a sustituir al examen. Lo que es el medio más seguro para poner la escuela en manos de la empresa
+
+#### 5
+
+En las sociedades disciplinarias siempre había que volver a empezar (terminada la escuela, empieza el cuartel, después de éste viene la fábrica), mientras que en las sociedades de control nunca se termina nada: la empresa, la formación o el servicio son los estados metaestables y coexistentes de una misma modulación, una especie de deformador universal. Kafka, que se hallaba a caballo entre estos dos tipos de sociedad, describió en El proceso sus formas jurídicas más temibles: la absolución aparente (entre dos encierros), típica de las sociedades disciplinarias, y el aplazamiento ilimitado (en continua variación) de las sociedades de control son dos formas de vida jurídicamente muy distintas, y si el derecho actual es un derecho en crisis, vacilante, ello sucede porque estamos abandonando unas formas y transitando hacia otras. Las sociedades disciplinarias presentan dos polos: la marca que identifica al individuo y el número o la matrícula que índica su posición en la masa. Para las disciplinas, nunca hubo incompatibilidad entre ambos, el poder es al mismo tiempo masificador e individuante, es decir, forma un cuerpo con aquellos sobre quienes se ejerce al mismo tiempo que moldea la individualidad de cada uno de los miembros (Foucault, encontraba el origen de este doble objetivo en el poder pastoral del sacerdote -el rebaño y cada una de las ovejas-, si bien el poder civil se habría convertido, por su parte y con otros medios, en un “pastor” laico).
+
+#### 6
+
+En cambio, en las sociedades de control, lo esencial ya no es una marca ni un número, sino una cifra: la cifra es una contraseña \[mot de passe\], en tanto que las sociedades disciplinarias están reguladas mediante consignas \[mots et ordre\], tanto desde el punto de vista de la integración como desde el punto de vista de la resistencia a la integración. El lenguaje numérico de control se compone de cifras que marcan o prohíben el acceso a la información. Ya no estamos ante el dualismo «individuo-masa». Los individuos han devenido “dividuales” y las masas se han convertido en indicadores, datos, mercados o “bancos”. Quizá es el dinero lo que mejor expresa la distinción entre estos dos tipos de sociedad, ya que la disciplina se ha remitido siempre a monedas acuñadas que contenían una cantidad del patrón oro, mientras que el control remite a intercambios fluctuantes, modulaciones en las que interviene una cifra: un porcentaje de diferentes monedas tomadas como muestras. El viejo topo monetario es el animal de los centros de encierro, mientras que la serpiente monetaria lo es de las sociedades de control. Hemos pasado de un animal a otro, del topo a la serpiente, tanto el régimen en el que vivimos como en nuestra manera de vivir y en nuestras relaciones con los demás. El hombre de la disciplina era un productor discontinuo de energía, pero el hombre de control es más bien ondulatorio, permanece en órbita, suspendido sobre una onda continua. El surf desplaza en todo lugar a los antiguos deportes.
+
+#### 7
+
+Es sencillo buscar correspondencias entre tipos de sociedad y tipos de máquinas, no porque las máquinas sean determinantes, sino porque expresan las formaciones sociales que las han originado y que las utilizan. Las antiguas sociedades de soberanía operaban con máquinas simples, palancas, poleas, relojes; las sociedades disciplinarias posteriores se equiparon con máquinas energéticas, con el riesgo pasivo de la entropía y el riesgo activo del sabotaje; las sociedades de control actúan mediante máquinas de un tercer tipo, máquinas informáticas y ordenadores cuyo riesgo pasivo son las interferencias y cuyo riesgo activo son la piratería y la inoculación de virus. No es solamente una evolución tecnológica, es una profunda mutación del capitalismo. Una mutación ya bien conocida y que puede resumirse de este modo: el capitalismo del siglo XIX es un capitalismo de concentración, tanto en cuanto a la producción como en cuanto a la propiedad. Erige, pues, la fábrica como centro de encierro, ya que el capitalista no es sólo propietario de los medios de producción, sino también, en algunos casos, el propietario de otros centros concebidos analógicamente (las casas donde viven los obreros, las escuelas). En cuanto al mercado, su conquista procede tanto por especialización como por colonización, o bien mediante al abaratamiento de los costos de producción.
+
+#### 8
+
+Sin embargo, en la actual situación, el capitalismo ya no se concentra en la producción, a menudo relegada a la periferia tercermundista, incluso en la compleja forma de producción textil, metalúrgica o petrolífera. Es un capitalismo de superproducción. Ya no compra materias primas ni vende productos terminados o procede al montaje de piezas sueltas, Lo que intenta vender son servicios, lo que quiere comprar son acciones. No es un capitalismo de producción sino de productos, es decir de ventas o de mercados. Por eso es especialmente disperso, por eso la empresa ha ocupado el lugar de la fábrica. La familia, la escuela, el ejército, la fábrica ya no son medios analógicos distintos que convergen en un mismo propietario, ya sea el Estado o la iniciativa privada, sino que se han convertido en figuras cifradas, deformables y transformables, de una misma empresa que sólo tiene administradores. Incluso el arte ha abandonado los círculos cerrados para introducirse en los circuitos abiertos de la banca.
+
+#### 9
+
+Un mercado se conquista cuando se adquiere su control, no mediante la formación de una disciplina; se conquista cuando se puede fijar los precios, no cuando se abaratan los costos de producción; se conquista mediante la transformación de los productos, no mediante la especialización de la producción. La corrupción se eleva entonces a una nueva potencia. El departamento de ventas se ha convertido en el centro, en el “alma”, lo que supone una de las noticias más terribles del mundo. Ahora, el instrumento de control social es el marketing, y en él se forma la raza descarada de nuestros dueños. El control se ejerce a corto plazo y mediante una rotación rápida, aunque también de forma continua e ilimitada, mientras que la disciplina tenía una larga duración, infinita y discontinua. El hombre ya no está encerrado sino endeudado. Sin duda, una constante del capitalismo sigue siendo la extrema miseria de las tres cuartes partes de la humanidad, demasiado pobres para endeudarlas, demasiado numerosas para encerrarlas: el control no tendrá que afrontar únicamente la cuestión de la difuminación de las fronteras, sino también la de los disturbios en los suburbios y guetos.
+
+
+
+---
+
+### III. PROGRAMA
+
+#### 10
+
+No es preciso apelar a la ficción científica para concebir un mecanismo de control capaz de proporcionar a cada instante la posición de un elemento en un medio abierto, ya sea un animal dentro de una reserva o un hombre en una empresa (collares electrónicos). Félix Guattari imaginaba una ciudad en la que cada uno podía salir de su apartamento, de su casa o de su barrio gracias a su tarjeta electrónica (dividual) mediante la que iba levantando barreras; pero podría haber días u horas en los que la tarjeta fuera rechazada; lo que importa no es la barrera, sino el ordenador que señala la posición, lícita o ilícita, y produce una modulación universal.
+
+#### 11
+
+El estudio socio-técnico de los mecanismos de control que ahora están en sus comienzos debería ser un estudio categorial capaz de describir eso que ahora se está instalando en el lugar de los centros de encierro disciplinario, cuya crisis está en boca de todos. Es posible que, tras las adaptaciones correspondientes, reaparezcan algunos mecanismos tomados de las antiguas sociedades de soberanía. Lo importante es que nos hallamos en el inicio de algo. En el régimen carcelario, la búsqueda de “penas sustitutivas”, al menos para los delitos menores, y la utilización de collares electrónicos que imponen al condenado la permanencia en su domicilio durante ciertas horas. En el régimen escolar, las formas de control continuo y la acción de la formación permanente sobre la escuela, el correspondiente abandono de toda investigación en el seno de la Universidad, la introducción de la empresa en todos los niveles de escolaridad. En el régimen hospitalario, la nueva medicina «sin médicos ni enfermos» que localiza enfermos potenciales y grupos de riesgo, y que en absoluto indica un progreso en la individuación como a menudo se dice, sino que sustituye el cuerpo individual o numérico por una materia “dividual” cifrada que es preciso controlar,
+
+#### 12
+
+Asimismo, en el régimen empresarial, los nuevos modos de tratar el dinero, de tratar los productos y de tratar a los hombres ya no pasa por la antigua forma de la fábrica. Son ejemplos mínimos, pero que nos permiten comprender mejor lo que hay que entender por «crisis de las instituciones», es decir, la instalación progresiva y dispersa de un nuevo régimen de dominación. Una de las cuestiones más importantes es la inadaptación de los sindicatos a esta situación: ligados históricamente a la lucha contra las disciplinas y a los centros de encierro, ¿Cómo podrían adaptarse o dejar paso a nuevas formas de resistencia contra las sociedades de control? ¿Puede hallarse ya un esbozo de estas formas futuras, capaces de contrarrestar las delicias del marketing? ¿No es extraño que tantos jóvenes reclamen una “motivación”, que exijan cursillos y formación permanente? Son ellos quienes tienen que descubrir para qué les servirán tales cosas, como sus antepasados descubrieron, penosamente, la finalidad de las disciplinas. Los anillos de las serpientes son aún más complicados que los orificios de una madriguera de topo.
+
+
+---
+
+### IV. NOTAS
+
+[^1]: Traducción del texto francés que apareció en L “Autre Joumal N* 1, mayo de 1990 y fue reproducido en el libro Qu'est-ce que la philosophie ? Ed. Minuit. París. 1991.
+
+---
